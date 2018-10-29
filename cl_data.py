@@ -16,7 +16,6 @@ import skymapper as skm
 import pymaster as nmt
 import matplotlib.colors as colors
 
-dir_name = '/home/drc01/sobreira/andluiz/halogen'
 
 def plot_mask(mask, NSIDE, figname):
 
@@ -619,5 +618,7 @@ def start():
 #if __name__ == '__main__':
 #	start()
 
+#Change for your directory!
 dir_name = '/home/drc01/sobreira/andluiz/halogen'
+
 start()
