@@ -11,3 +11,4 @@ Instructions for use:
 1 - setup repository_name global variable for your directory;
 2 - in this directory, there should be two subdirectories: one called 'mock_cats' where are catalogs and another 'outputs' where outputs files will be salved;
 3 - in 'outputs' directory there should be a directory called 'cldata' where all the cl measurements will be salved.
+4 - in your repository there should be a binning cl file 'bin.dat' following the namaster configuration
