@@ -6,7 +6,7 @@ In general description, NaMaster is a C library, Python module and standalone pr
 
 The present pipeline runs with the Python module of NaMaster, the pymaster (https://namaster.readthedocs.io/en/latest/index.html). It has already been optimized to compute APS of many galaxy catalogs simultaneously using parallelization method of mpi4py. One direct application of measures pipeline is to calculate covariance matrix on a sample mock catalogs for cosmological analysis.
 
-Intrutions for use:
+Instructions for use:
 
 1 - setup repository_name global variable for your directory;
 2 - in this directory, there should be two subdirectories: one called 'mock_cats' where are catalogs and another 'outputs' where outputs files will be salved;
